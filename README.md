@@ -18,3 +18,7 @@
 [Github - Hugging Face](https://github.com/huggingface/transformers/blob/main/README_ko.md)
 
 [[DL] Hugging Face란?](https://wooono.tistory.com/413)
+
+[Introduction to Hugging Face on Amazon SageMaker | Amazon Web Services](https://www.youtube.com/watch?v=80ix-IyNnQI)
+
+[Hugging Face on Amazon SageMake](https://aws.amazon.com/machine-learning/hugging-face/?sc_channel=EL&sc_campaign=Demo_2022_vid&sc_medium=YouTube&sc_content=&sc_detail=MACHINE_LEARNING&sc_country=US)
