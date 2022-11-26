@@ -13,6 +13,11 @@
 
 - 다양한 트랜스포머 모델(transformer.models)과 학습 스크립트(transformer.Trainer)를 제공하는 모듈
 
+## Inference 
+
+![image](https://user-images.githubusercontent.com/52392004/204080227-0a741ead-1b1d-49ea-a51c-18d08b449e53.png)
+
+
 ## Reference 
 
 [Github - Hugging Face](https://github.com/huggingface/transformers/blob/main/README_ko.md)
