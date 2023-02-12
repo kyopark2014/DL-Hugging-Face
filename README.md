@@ -13,6 +13,12 @@
 
 - 다양한 트랜스포머 모델(transformer.models)과 학습 스크립트(transformer.Trainer)를 제공하는 모듈
 
+
+Integrated workflow with Amazon SageMaker
+![image](https://user-images.githubusercontent.com/52392004/218343335-86201cae-b6f8-4408-9363-3ecbe804791e.png)
+
+
+
 ### Estimator
 
 ![image](https://user-images.githubusercontent.com/52392004/218343273-c2d6ff2b-0ed0-498d-b561-c6c4df9eb88c.png)
